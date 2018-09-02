@@ -1,12 +1,17 @@
 {
   "name": "md2latex",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Markdown to LaTeX converter",
   "main": "md2latex.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["markdown", "md", "LaTeX", "TeX"],
+  "keywords": [
+    "markdown",
+    "md",
+    "LaTeX",
+    "TeX"
+  ],
   "author": "Vladimir Grinenko",
   "license": "MIT",
   "dependencies": {
